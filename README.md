@@ -189,13 +189,12 @@ O aplicativo foi desenvolvido buscando uma experiência moderna e fluida.
 ```bash
 📦 MarketList
  ┣ 📂 Components
- ┣ 📂 Screens
- ┣ 📂 ViewModels
  ┣ 📂 Database
+ ┣ 📂 Exceptions
  ┣ 📂 Models
- ┣ 📂 Navigation
- ┣ 📂 Services
- ┗ 📂 Utils
+ ┣ 📂 Retrofit
+ ┣ 📂 UI_Event
+ ┣ 📂 Viewmodels
 ```
 
 ---
